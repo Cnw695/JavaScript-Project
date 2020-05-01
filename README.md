@@ -7,5 +7,6 @@
 
 
 HTML-->>>JavaScript-Project/webpage/index.html
+Data --->>JavaScript-Project/static/js/data.js 
  
 
